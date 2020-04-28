@@ -1,0 +1,15 @@
+{
+	"settings": {
+		"files.autoGuessEncoding": true,
+		"files.encoding": "utf8",
+		"java.home": "C:/Program Files/Java/jdk-11.0.2",
+		"java.jdt.ls.vmargs": "-Dfile.encoding=UTF-8",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	},
+
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}
